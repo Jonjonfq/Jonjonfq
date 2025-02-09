@@ -1,16 +1,26 @@
-## Hi there 👋
+# **Jônatas Freire**
 
-<!--
-**Jonjonfq/Jonjonfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* *Olá, me chamo Jônatas, tenho 33 anos e sou Técnologo em ADS, porém nunca atuei com programação. Atualmente retormei meus estudos na área com foco em Análise de Dados. Objetivo aprimorar meus conhecimentos em SQL, Python, Tablue, Power BI, Excel e o meu nível de inglês a princípio. Já atuei como Suporte Técnico em TI e Hoje Técnico em Fibra Óptica, busco uma oportunidade de expandir meus conhecimentos e atuar no setor de dados.* 
 
-Here are some ideas to get you started:
+                                               🚀 Bem-vindo ao meu GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+### Conecte-se comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/jonatasquintanilha/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jônatas-freire-a53962169/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jonatasquintanilha@hotmail.com)
+
+
+
+### Habilidades
+
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![sql](https://img.shields.io/badge/SQL-FF?style=for-the-badge&logo=onlyoffice&logoColor=FFFF&labelColor=130&color=130) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-FF1?style=for-the-badge&logo=windows&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonjonfq&theme=transparent&bg_color=100&border_color=1001&show_icons=true&icon_color=FFFF&title_color=F22&text_color=FFFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jonjonfq&layout=compact&bg_color=100&border_color=1001&title_color=F22&text_color=FFF)
