@@ -1,6 +1,6 @@
 # **Jônatas Freire**
 
-* *Olá, me chamo Jônatas, tenho 33 anos e sou Técnologo em ADS, porém nunca atuei com programação. Atualmente retomei meus estudos na área com foco em Análise de Dados. Objetivo aprimorar meus conhecimentos em SQL, Python, Tablue, Power BI, Excel e o meu nível de inglês a princípio. Já atuei como Suporte Técnico em TI e Hoje Técnico em Fibra Óptica, busco uma oportunidade de expandir meus conhecimentos e atuar no setor de dados.* 
+* *Olá, me chamo Jônatas, tenho 33 anos e sou Tecnólogo em ADS, porém nunca atuei com programação. Atualmente retomei meus estudos na área com foco em Análise de Dados. Objetivo aprimorar meus conhecimentos em SQL, Python, Tablue, Power BI, Excel e o meu nível de inglês a princípio. Já atuei como Suporte Técnico em TI e Hoje Técnico em Fibra Óptica, busco uma oportunidade de expandir meus conhecimentos e atuar no setor de dados.* 
 
                                                🚀 Bem-vindo ao meu GitHub! 🚀
 
